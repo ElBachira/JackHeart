@@ -41,61 +41,24 @@ document.addEventListener('DOMContentLoaded', () => {
     // --- 2. SISTEMA DE REPRODUCTOR DE MÚSICA ---
     const songs = [
         {
-            title: "Supermassive Black Hole",
-            artist: "Muse",
+            title: "Once Upon A Dream",
+            artist: "Lana Del Rey",
             src: "song.mp3", 
-            lyrics: `Ooh nena, ¿no sabes que sufro?
-Ooh nena, ¿puedes oírme gemir?
-Me atrapaste bajo falsas apariencias
-¿Cuánto falta para que me dejes ir?
+            lyrics: `Te conozco, caminé contigo en un sueño de ayer
+Te conozco, ese brillo en tus ojos lo sé reconocer
+Y aunque es cierto que un sueño no siempre es lo que parece ser
+Pero si te conozco bien, sé qué vas a hacer
+Me amarás de una vez, como lo hiciste en un sueño de ayer
 
-Ooh
-Enciendes mi alma
-Ooh
-Enciendes mi alma
+Pero si te conozco bien, sé qué vas a hacer
+Me amarás de una vez
+Como lo hiciste en un sueño de ayer
 
-Glaciares derritiéndose en plena noche (ooh)
-Y las superestrellas succionadas hacia el supermasivo (enciendes mi alma)
-Glaciares derritiéndose en plena noche
-Y las superestrellas succionadas hacia el (enciendes mi alma)
-(Hacia el supermasivo)
-
-Pensé que no era el tonto de nadie
-Ooh nena, soy un tonto por ti
-Eres la reina de lo superficial
-¿Y cuánto pasará antes de que digas la verdad?
-
-Ooh
-Enciendes mi alma
-Ooh
-Enciendes mi alma
-
-Glaciares derritiéndose en plena noche (ooh)
-Y las superestrellas succionadas hacia el supermasivo (enciendes mi alma)
-Glaciares derritiéndose en plena noche
-Y las superestrellas succionadas hacia el (enciendes mi alma)
-(Hacia el supermasivo)
-
-Agujero negro supermasivo
-Agujero negro supermasivo
-Agujero negro supermasivo
-Agujero negro supermasivo
-
-Glaciares derritiéndose en plena noche
-Y las superestrellas succionadas hacia el supermasivo
-Glaciares derritiéndose en plena noche
-Y las superestrellas succionadas hacia el supermasivo
-
-Glaciares derritiéndose en plena noche (ooh)
-Y las superestrellas succionadas hacia el supermasivo (enciendes mi alma)
-Glaciares derritiéndose en plena noche
-Y las superestrellas succionadas hacia el (enciendes mi alma)
-(Hacia el supermasivo)
-
-Agujero negro supermasivo
-Agujero negro supermasivo
-Agujero negro supermasivo
-Agujero negro supermasivo`,
+Te conozco, caminé contigo en un sueño de ayer
+Te conozco, ese brillo en tus ojos lo sé reconocer
+Y aunque es cierto que un sueño no siempre es lo que parece ser
+Pero si te conozco bien, sé qué vas a hacer
+Me amarás de una vez, como lo hiciste en un sueño de ayer`,
         }
     ];
 
@@ -211,6 +174,5 @@ Agujero negro supermasivo`,
         }
     };
 });
-
 
 
